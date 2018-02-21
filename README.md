@@ -38,6 +38,8 @@ $ sudo docker run -d -p 80:80 citizenstig/dvwa:latest
 
 # Resources
 
-1.
-2.
+## Vulnerable applicaions
+1. Damn Vulnerable Web Application: http://www.dvwa.co.uk/
+3. WebGoat: https://github.com/WebGoat/WebGoat
+2. Mutillidae 2: https://www.owasp.org/index.php/OWASP_Mutillidae_2_Project
 
