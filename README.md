@@ -188,3 +188,8 @@ https://www.kali.org/
 1. Damn Vulnerable Web Application: http://www.dvwa.co.uk/
 2. WebGoat: https://github.com/WebGoat/WebGoat
 3. Mutillidae 2: https://www.owasp.org/index.php/OWASP_Mutillidae_2_Project
+
+## Prevent vulnerabilities:
+XSS: https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
+
+SQL injection: https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet
