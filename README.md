@@ -1,5 +1,6 @@
 # Abakus Security Demo
 
+[Presentation slides](https://docs.google.com/presentation/d/1gW_8E_jsF_oDMjmKVYkI13REUKjg_uInGTV_RXsxoQ8/edit?usp=sharing)
 This is a simple security / pentesting demo run for Abakus at NTNU in Trondheim.
 There are two hosts used in this demo:
 ```
