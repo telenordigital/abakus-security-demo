@@ -45,7 +45,7 @@ $ sudo docker run -d -p 80:80 citizenstig/dvwa:latest
 Popular search operations
 `site`, `filetype`, `inurl`, `intitle`
 
-[Google Hacking DB](https://www.exploit-db.com/google-hacking-database/)
+Database for URL queries for hacking: [Google Hacking DB](https://www.exploit-db.com/google-hacking-database/)
 
 Find hardware with known vulnerabilities
 `intitle:"SpeedStream Router Management Interface"`
